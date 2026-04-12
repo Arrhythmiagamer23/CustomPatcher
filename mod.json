@@ -10,7 +10,7 @@
 	"id": "roadhogstudios.custom_patcher",
 	"name": "Custom Patcher",
 	"developers": [ "zGuschin", "RoadHogStudios", "user95401" ],
-	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.206",
+	"description": "Change count of Fonts, Grounds, BGs, MGs in Geometry Dash 2.206",
 	"early-load": true,
 	"repository": "https://github.com/user95401/CustomPatcher",
 	"settings": {
