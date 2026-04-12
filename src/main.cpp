@@ -25,18 +25,6 @@ void ruinGame() {
     auto Grounds = bytesAsIntStrs(SETTING(int64_t, "Grounds"));
     auto MiddleGrounds = bytesAsIntStrs(SETTING(int64_t, "MiddleGrounds"));
     auto LoadingLayerBackground = bytesAsIntStrs(SETTING(int64_t, "LoadingLayerBackground"));
-    auto Cubes = bytesAsIntStrs(SETTING(int64_t, "Cubes"));
-    auto Ships = bytesAsIntStrs(SETTING(int64_t, "Ships"));
-    auto Balls = bytesAsIntStrs(SETTING(int64_t, "Balls"));
-    auto Ufos = bytesAsIntStrs(SETTING(int64_t, "Ufos"));
-    auto Waves = bytesAsIntStrs(SETTING(int64_t, "Waves"));
-    auto Robots = bytesAsIntStrs(SETTING(int64_t, "Robots"));
-    auto Spiders = bytesAsIntStrs(SETTING(int64_t, "Spiders"));
-    auto Swings = bytesAsIntStrs(SETTING(int64_t, "Swings"));
-    auto Jetpacks = bytesAsIntStrs(SETTING(int64_t, "Jetpacks"));
-    auto DeathEffects = bytesAsIntStrs(SETTING(int64_t, "DeathEffects"));
-    auto Specials = bytesAsIntStrs(SETTING(int64_t, "Specials"));
-    auto ShipFires = bytesAsIntStrs(SETTING(int64_t, "ShipFires"));
 
 #define v3(...) __VA_ARGS__[0], __VA_ARGS__[1], __VA_ARGS__[2], __VA_ARGS__[3]
 #define v2(...) __VA_ARGS__[0], __VA_ARGS__[1], __VA_ARGS__[2]
