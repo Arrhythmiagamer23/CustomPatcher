@@ -5,24 +5,10 @@ Allow you change the:
 - count of grounds
 - count of middle grounds
 - exact background in Loading Layer
-- count of cubes
-- count of ships
-- count of balls
-- count of ufos
-- count of waves
-- ~~count of robots~~
-- ~~count of spiders~~
-- count of swings
-- count of jetpacks
-- ~~count of death effects~~
-- ~~count of specials~~
-- ~~count of ship fires~~
 - Item Info Popup to add custom text if its dont exist
-- unlock check function to unlock new icons
-- unlock check function to unlock all icons
 
-FEEL FUCKING FREE DO CREATE ISSUES ON REPO pls
-who talks about it in the fucking nowhere is a nit, really hate them
+FEEL FREE DO CREATE ISSUES ON REPO pls
+Talk it out when there are issues
 
 ## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
 
