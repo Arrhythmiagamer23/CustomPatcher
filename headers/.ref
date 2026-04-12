@@ -16,10 +16,6 @@ GeometryDash.exe+383E3A          - WPuFT9 - . (?)
 GeometryDash.exe+487140           - WPuFT10 - . (?)
 
 
-
-GeometryDash.exe+3669A4     - BuguMocTb TpeuJlbl B urpoBoM noJle (+ pegakTop)
-
-
 ======================================FOHbl===================================
 GeometryDash.exe+49D190 - 6r (?)
 GeometryDash.exe+495F70  - 6r2 (?)
@@ -57,41 +53,7 @@ GeometryDash.exe+495D22  - CPEDHEE nOJlE4 (?)
 GeometryDash.exe+26D136   - CPEDHEE nOJlE5 (?)
 
 
-===========================uKOHKu==========================================
 
-
-GeometryDash.exe+3649B5 - BuguMocTb ky6a B urpoBoM noJle (+ pegakTop)
-GeometryDash.exe+37BEA3  - BuguMocTb kopa6Jl9l B urpoBoM noJle (+ pegakTop)
-GeometryDash.exe+37C0D3  - BuguMocTb g)l(eTnak B urpoBoM noJle (+ pegakTop)
-GeometryDash.exe+37C309  - BuguMocTb l-ofo B urpoBoM noJle (+ pegakTop)
-GeometryDash.exe+37C5A3   - BuguMocTb wap B urpoBoM noJle (+ pegakTop)
-GeometryDash.exe+37C7D3   - BuguMocTb cBuHrkonTep B urpoBoM noJle (+ pegakTop)
-GeometryDash.exe+37CA03    - BuguMocTb BoJlHbl B urpoBoM noJle (+ pegakTop)
-
-GeometryDash.exe+2680C2  - MaccuB ky6oB (B Bbl6ope ukoHok + Mara3uHbl)
-GeometryDash.exe+267F98 - MaccuB kopa6Jleu (B Bbl6ope ukoHok + Mara3uHbl)
-GeometryDash.exe+267FD0  - MaccuB wapoB (B Bbl6ope ukoHok + Mara3uHbl)
-GeometryDash.exe+267FEF   - MaccuB l-ofowek (B Bbl6ope ukoHok + Mara3uHbl)
-GeometryDash.exe+26800E    - MaccuB BoJlH (B Bbl6ope ukoHok + Mara3uHbl)
-GeometryDash.exe+268038     - MaccuB po6oToB (B Bbl6ope ukoHok + Mara3uHbl) (?)
-GeometryDash.exe+268052     - MaccuB naykoB (B Bbl6ope ukoHok + Mara3uHbl) (?)
-GeometryDash.exe+268079     - MaccuB cBuHrkonTepoB (B Bbl6ope ukoHok + Mara3uHbl)
-GeometryDash.exe+2680AB      - MaccuB g)l(eTnakoB (B Bbl6ope ukoHok + Mara3uHbl)
-
-GeometryDash.exe+178D83 - KOJlu4ECTBO KY6OB (B rapa)l(e)
-GeometryDash.exe+178D89  - KOJlu4ECTBO kopa6Jleu (B rapa)l(e)
-GeometryDash.exe+178D8F   - KOJlu4ECTBO wapoB (B rapa)l(e)
-GeometryDash.exe+178D95    - KOJlu4ECTBO l-ofowek (B rapa)l(e)
-GeometryDash.exe+178D9B     - KOJlu4ECTBO cTpeJlok (B rapa)l(e)
-GeometryDash.exe+178DA1      - KOJlu4ECTBO po6oTon (B rapa)l(e) (?)
-GeometryDash.exe+178DA7       - KOJlu4ECTBO naykoB (B rapa)l(e) (?)
-GeometryDash.exe+178DAD        - KOJlu4ECTBO cBuHrkonTepoB (B rapa)l(e) 
-GeometryDash.exe+178DBF         - KOJlu4ECTBO g)l(eTnakoB (B rapa)l(e) 
-
-
-GeometryDash.exe+178DB3         - KOJlu4ECTBO TpeuJloB (B rapa)l(e) (?)
-GeometryDash.exe+178DB9         - KOJlu4ECTBO effekTbl cMepTu (B rapa)l(e)  (?)
-GeometryDash.exe+178DC5          - KOJlu4ECTBO effekTbl kopa6Jl9l (ship fire) (B rapa)l(e)  (?)
 
 
 ORGS:
@@ -130,31 +92,3 @@ ORGS:
 "original":[184,3,0,0,0]// - CPEDHEE nOJlE3 (?)
 "original":[184,3,0,0,0]//  - CPEDHEE nOJlE4 (?)
 "original":[65,184,3,0,0]//   - CPEDHEE nOJlE5 (?)
-"original":[184,228,1,0,0]// - BuguMocTb ky6a B urpoBoM noJle (+ pegakTop)
-"original":[184,169,0,0,0]//  - BuguMocTb kopa6Jl9l B urpoBoM noJle (+ pegakTop)
-"original":[184,5,0,0,0]//  - BuguMocTb g)l(eTnak B urpoBoM noJle (+ pegakTop)
-"original":[184,149,0,0,0]//  - BuguMocTb l-ofo B urpoBoM noJle (+ pegakTop)
-"original":[184,118,0,0,0]//   - BuguMocTb wap B urpoBoM noJle (+ pegakTop)
-"original":[184,43,0,0,0]//   - BuguMocTb cBuHrkonTep B urpoBoM noJle (+ pegakTop)
-"original":[184,96,0,0,0]//    - BuguMocTb BoJlHbl B urpoBoM noJle (+ pegakTop)
-"original":[190,228,1,0,0]//  - MaccuB ky6oB (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[190,169,0,0,0]// - MaccuB kopa6Jleu (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[190,118,0,0,0]//  - MaccuB wapoB (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[190,149,0,0,0]//   - MaccuB l-ofowek (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[190,96,0,0,0]//    - MaccuB BoJlH (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[190,68,0,0,0]//     - MaccuB po6oToB (B Bbl6ope ukoHok + Mara3uHbl) (?)
-"original":[190,69,0,0,0]//     - MaccuB naykoB (B Bbl6ope ukoHok + Mara3uHbl) (?)
-"original":[190,43,0,0,0]//     - MaccuB cBuHrkonTepoB (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[190,5,0,0,0]//      - MaccuB g)l(eTnakoB (B Bbl6ope ukoHok + Mara3uHbl)
-"original":[184,228,1,0,0]// - KOJlu4ECTBO KY6OB (B rapa)l(e)
-"original":[184,169,0,0,0]//  - KOJlu4ECTBO kopa6Jleu (B rapa)l(e)
-"original":[184,118,0,0,0]//   - KOJlu4ECTBO wapoB (B rapa)l(e)
-"original":[184,149,0,0,0]//    - KOJlu4ECTBO l-ofowek (B rapa)l(e)
-"original":[184,96,0,0,0]//     - KOJlu4ECTBO cTpeJlok (B rapa)l(e)
-"original":[184,68,0,0,0]//      - KOJlu4ECTBO po6oTon (B rapa)l(e) (?)
-"original":[184,69,0,0,0]//       - KOJlu4ECTBO naykoB (B rapa)l(e) (?)
-"original":[184,43,0,0,0]//        - KOJlu4ECTBO cBuHrkonTepoB (B rapa)l(e)
-"original":[184,5,0,0,0]//         - KOJlu4ECTBO g)l(eTnakoB (B rapa)l(e)
-"original":[184,7,0,0,0]//         - KOJlu4ECTBO TpeuJloB (B rapa)l(e) (?)
-"original":[184,20,0,0,0]//         - KOJlu4ECTBO effekTbl cMepTu (B rapa)l(e)  (?)
-"original":[184,6,0,0,0]//          - KOJlu4ECTBO effekTbl kopa6Jl9l (ship fire) (B rapa)l(e)  (?)
