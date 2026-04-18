@@ -13,6 +13,10 @@
 	"description": "Change count of Fonts, Grounds, BGs, MGs in Geometry Dash 2.206",
 	"early-load": true,
 	"repository": "https://github.com/user95401/CustomPatcher",
+	"dependencies": {
+        "geode.node-ids": "1.21.0",
+		"raydeeux.pages_api": "1.4.15"
+	},
 	"settings": {
 		"Fonts": {
 			"name": "                  Fonts",
