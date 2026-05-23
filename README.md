@@ -25,7 +25,7 @@ Talk it out when there are issues
 
 ## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
 
-## [A Pack For Testing with the Pages API to add]([https://github.com/user95401/CustomPatcher/issues](https://www.dropbox.com/scl/fi/7napnvkt13x4hk92qj1p1/CustomPatcher-Test-Pack.zip?rlkey=mvghln4xfbtpfvtikkkku32yu&st=pv1x3lgp&dl=0))
+### [A Pack For Testing with the Pages API to add]([https://github.com/user95401/CustomPatcher/issues](https://www.dropbox.com/scl/fi/7napnvkt13x4hk92qj1p1/CustomPatcher-Test-Pack.zip?rlkey=mvghln4xfbtpfvtikkkku32yu&st=pv1x3lgp&dl=0))
 
 ### [BIG RESOURCEPACK EXAMPLE LINK)](https://github.com/user95401/CustomPatcher/raw/main/TestPack\(uhd\).zip)
 
