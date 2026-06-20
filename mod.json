@@ -18,8 +18,14 @@
 		"homepage": "https://remina.bccst.ru"
 	},
 	"dependencies": {
-        "geode.node-ids": "1.21.0",
-		"raydeeux.pages_api": "1.4.15"
+        "geode.node-ids": {
+			"version": ">=v1.20.0",
+			"required": false
+		},
+		"raydeeux.pages_api": {
+			"version":">=1.4.15",
+			"required": false
+		}
 	},
 	"settings": {
 		"Fonts": {
