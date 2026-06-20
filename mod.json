@@ -6,13 +6,17 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"version": "v0.0.0-beta.3",
+	"version": "v1.0.0",
 	"id": "roadhogstudios.custom_patcher",
 	"name": "Custom Patcher",
-	"developers": [ "zGuschin", "RoadHogStudios", "user95401" ],
+	"developers": [ "zGuschin", "RoadHogStudios", "lil2kki" ],
 	"description": "Change count of Fonts, Grounds, BGs, MGs in Geometry Dash 2.208",
 	"early-load": true,
-	"repository": "https://github.com/user95401/CustomPatcher",
+	"links": {
+		"source": "https://github.com/lil2kki/REMINA",
+		"community": "https://discord.gg/NXbbv2HZGg",
+		"homepage": "https://remina.bccst.ru"
+	},
 	"dependencies": {
         "geode.node-ids": "1.21.0",
 		"raydeeux.pages_api": "1.4.15"
