@@ -1,3 +1,12 @@
+#include <Geode/Geode.hpp>
+#include <Geode/ui/GeodeUI.hpp>
+#include <Geode/ui/Popup.hpp>
+#include <Geode/utils/function.hpp>
+#include <Geode/loader/Log.hpp>
+#include <Geode/loader/Hook.hpp>
+#include <Geode/utils/cocos.hpp>
+#include <Geode/Result.hpp>
+#include <matjson.hpp>
 #include "_main.hpp"
 
 inline void PB10(std::string str_addr, std::string str_int10_list, std::string comment = "") {
