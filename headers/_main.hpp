@@ -1,6 +1,12 @@
 #pragma once
 #include <Geode/Geode.hpp>
 #include <Geode/ui/GeodeUI.hpp>
+#include <Geode/ui/Popup.hpp>
+#include <Geode/utils/function.hpp>
+#include <Geode/loader/Log.hpp>
+#include <Geode/loader/Hook.hpp>
+#include <Geode/Result.hpp>
+
 using namespace geode::prelude;
 
 #include <regex>
